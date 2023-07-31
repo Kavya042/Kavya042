@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Kavya K Kamath and I'm a software developer working at Ribbon Communications in Bangalore.
+
 <!--
 **Kavya042/Kavya042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
